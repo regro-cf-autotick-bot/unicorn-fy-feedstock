@@ -1,7 +1,7 @@
 About unicorn-fy
 ================
 
-Home: https://github.com/LUCIT-Systems-and-Development/unicorn-fy
+Home: https://www.lucit.tech/unicorn-fy.html
 
 Package license: MIT
 
@@ -12,6 +12,9 @@ Summary: Convert received raw data from crypto exchange API endpoints into well-
 Development: https://github.com/LUCIT-Systems-and-Development/unicorn-fy
 
 Documentation: https://unicorn-fy.docs.lucit.tech/
+
+Convert received raw data from crypto exchange API endpoints into well-formed python dictionaries.
+
 
 Current build status
 ====================
